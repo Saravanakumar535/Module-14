@@ -8,7 +8,7 @@ To write a Python program for simple implementation of Priority Queue using Queu
 ### ALGORITHM
 
 1. Start the program.  
-2. Define a class `PriorityQueue` with an initializer to create an empty list `queue`.  
+2. Define a class `PriorityQueue` with an initializer to create an empty list `queue`.   
 3. Define the `__str__` method to return queue elements as a string separated by spaces.  
 4. Define the `isEmpty()` method to check if the queue is empty.  
 5. Define the `insert(data)` method to append the given data to the queue.  
